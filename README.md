@@ -4,20 +4,17 @@
 > 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/87b89775-d7f8-4281-9c35-4e6d0c748090">
+<img src="https://github.com/user-attachments/assets/87b89775-d7f8-4281-9c35-4e6d0c748090" width="50%" height="50%">
 </p>
 
-### Trailer
-
----
+## Trailer
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=GFbGa3y6auY"><img src="https://img.youtube.com/vi/GFbGa3y6auY/0.jpg" alt="Trailer Video"></a>
 </p>
 
-### Features
+## Features
 
----
 ![image](https://github.com/user-attachments/assets/4b3081db-7517-4329-af10-dc74228fc6ef)
 
 - Made out of Minecraft datapacks and resourcepacks - Supports vanilla client/server, including Minecraft Realms
@@ -27,9 +24,7 @@
 - Special monsters and bosses with stylish abilities
 - … and much more!
 
-### Resources
-
----
+## Resources
 
 **Image Album** - https://imgur.com/a/bkcK3ha
 
@@ -37,9 +32,7 @@
 
 **TeamBTYM YouTube Channel** - https://www.youtube.com/@TeamBTYM
 
-### Credits
-
----
+## Credits
 
 **Creators - TeamBTYM**
 
@@ -60,5 +53,5 @@
 
 **Resources**
 
-- Trailer BGM - Accelerate by Acid-Notation
-- Bossfight BGM - Endure Emptiness by Kain Vinosec
+- Trailer BGM - [Accelerate](https://www.youtube.com/watch?v=kRCVzN2ZCW8) by Acid-Notation
+- Bossfight BGM - [Endure Emptiness](https://www.youtube.com/watch?v=L8ZhHl0slZQ) by Kain Vinosec
